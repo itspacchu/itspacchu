@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👨‍🔬 Hi I'm Prashant Nandipati aka Pacchu 👋
 
-<!--
-**itspacchu/itspacchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 I’m currently working on ***Brackey's Game Jam 2020.2***
+- 🔭 I’m currently learning Javascript *g9.js* and *processing.js*
+- 🍫 Fun fact: When life gives you 🍋 dont make a 🧃 Lemonade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📙 Blog Posts
+
+- [IK Solver](https://vonneumannscientia.pythonanywhere.com/post/25)
+- [Epicycloid Art](https://vonneumannscientia.pythonanywhere.com/post/23/)
+- [Chaos Equation (Lorentz Attractor)](https://vonneumannscientia.pythonanywhere.com/post/7/)
+
+
+[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=itspacchu&theme=dracula)](https://github.com/itspacchu/github-readme-stats)
+
+
+**ありがとう**
+
+
+
+
