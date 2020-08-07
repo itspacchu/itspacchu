@@ -1,4 +1,4 @@
-## 👨‍🔬 Hi I'm Prashant Nandipati (aka Pacchu 🎍)
+## 👨‍🔬 Hi I'm Prashant (aka Pacchu 🎍)
 
 
 - 📚 I’m currently working on ***Brackey's Game Jam 2020.2***
