@@ -13,7 +13,7 @@
 - [Chaos Equation (Lorentz Attractor)](https://vonneumannscientia.pythonanywhere.com/post/7/)
 
 
-[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=itspacchu&theme=dracula)](https://github.com/itspacchu/github-readme-stats)
+[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=itspacchu&theme=buefy)](https://github.com/itspacchu/github-readme-stats)
 
 
 **ありがとう**
