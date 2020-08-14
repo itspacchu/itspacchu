@@ -2,7 +2,7 @@
 
 
 - 📚 I’m currently working on ***Something cool ;)***
-- 🔭 I’m currently learning Javascript
+- 🔭 I’m currently learning Javascript and Spanish
 - 🍫 Fun fact: When life gives you 🍋 dont make a 🧃 Lemonade
 
 ## 📙 Blog Posts
