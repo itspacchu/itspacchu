@@ -1,8 +1,8 @@
 ## 👨‍🔬 Hi I'm Prashant (aka Pacchu 🎍)
 
 
-- 📚 I’m currently working on ***Something cool ;)***
-- 🔭 I’m currently learning Javascript and Spanish
+- 📚 I’m currently working on ***Computational Thinking with Julia***
+- 🔭 I’m currently learning Julia
 - 🍫 Fun fact: When life gives you 🍋 dont make a 🧃 Lemonade
 
 ## 📙 Blog Posts
