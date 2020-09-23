@@ -1,8 +1,7 @@
 ## 👨‍🔬 Hi I'm Prashant (aka Pacchu 🎍)
 
 
-- 📚 I’m currently working on ***Computational Thinking with Julia***
-- 🔭 I’m currently learning Julia
+- 📚 I’m currently working on ***Null***
 - 🍫 Fun fact: When life gives you 🍋 dont make a 🧃 Lemonade
 
 ## 📙 Blog Posts
@@ -13,10 +12,8 @@
 - [Chaos Equation (Lorentz Attractor)](https://vonneumannscientia.pythonanywhere.com/post/7/)
 
 
-[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=itspacchu&theme=buefy)](https://github.com/itspacchu/github-readme-stats)
+![spotify bois](https://now-playing-profile-boua5vedb.vercel.app/now-playing)
 
-
-**ありがとう**
 
 
 
