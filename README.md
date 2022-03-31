@@ -12,6 +12,7 @@
 
 <code>
 <img src="https://api.0x45.in/generate/badge?icon=discord&text=pacchu%234112" height=24px>
+<a href="https://www.last.fm/user/itspacchu"><img src="https://api.0x45.in/generate/badge?icon=lastfm&text=itspacchu" height=24px></a>
 <a href="https://open.spotify.com/user/pacchuprashant"><img src="https://api.0x45.in/generate/badge?icon=spotify&text=pacchuprashant" height=24px></a>
 <a href="https://www.youtube.com/channel/UCpVLV3pxEJHfUqz6FG199Uw"><img src="https://api.0x45.in/generate/badge?icon=youtube&text=itspacchu" height=24px></a>
 </code>
