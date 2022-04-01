@@ -1,6 +1,6 @@
 ## <img src="https://cdn.discordapp.com/emojis/858551929927106560.png?v=1" width=24> Hi I'm Prashant (aka Pacchu)
 
-<img src="https://cdn.discordapp.com/emojis/860277067730649135.png?v=1" width=16> Currently questioning ```What is life```
+<img src="https://cdn.discordapp.com/emojis/860277067730649135.png?v=1" width=16> Currently questioning <img src="https://api.0x45.in/generate/badge?icon=err&text=questioning%20existence&buff=64" height=24px>
 
 <img src="https://cdn.discordapp.com/emojis/765200439901421590.png?v=1" width=16> Electronics and Communication Undergraduate
 
