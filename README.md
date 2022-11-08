@@ -2,8 +2,6 @@
 
 ❓ Questioning <img src="https://api.0x45.in/generate/badge?icon=err&text=42&buff=64" height=24px>
 
-🛰️ Undergraduate Electronics and Communication.
-
 🍋 Likes to make crappy lemons but sweet random projects.
 
 > ### [🔗 Prashant's Nook](https://0x45.in)
